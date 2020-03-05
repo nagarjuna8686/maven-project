@@ -216,5 +216,11 @@
   <prerequisites>
     <maven>3.0.3</maven>
   </prerequisites>
+  <distributionManagement>
+   <releases>
+      <id>Release</id>
+      <url>http://18.232.132.72:8181/nexus-latest/content/repositories/Release/</url>
+   </releases>
+</distributionManagement>
 
 </project>
