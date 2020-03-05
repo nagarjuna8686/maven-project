@@ -232,6 +232,7 @@
   <distributionManagement>
    <releases>
       <id>Release</id>
+      <name>loanappication</name>
       <url>http://18.232.132.72:8181/nexus-latest/content/repositories/Release/</url>
    </releases>
 </distributionManagement>
